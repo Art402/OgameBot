@@ -58,3 +58,5 @@ JavaScript warning: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.i
 JavaScript warning: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js, line 0: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js is being assigned a //# sourceMappingURL, but already has one
 JavaScript warning: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js, line 0: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js is being assigned a //# sourceMappingURL, but already has one
 JavaScript warning: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js, line 0: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js is being assigned a //# sourceMappingURL, but already has one
+1642686772710	Marionette	INFO	Stopped listening on port 39903
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
