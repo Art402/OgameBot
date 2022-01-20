@@ -16,8 +16,7 @@ A python selenium ogame bot to improve industry automatically
 
 
 Goal is: A first use of python selenium on a game i used to play years ago :  
-<a href="https://lobby.ogame.gameforge.com/en_GB/" target="_blank">Ogame :crescent_moon:</a> ? 
-
+<a href="https://lobby.ogame.gameforge.com/en_GB/" target="_blank">Ogame :crescent_moon:</a> 
 
 
 
@@ -61,7 +60,6 @@ This software uses the following open source packages:
 
 ## Support
 
-</a>
 
 ## You may also like...
 
