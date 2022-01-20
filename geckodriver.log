@@ -1,0 +1,60 @@
+1642686532793	geckodriver	INFO	Listening on 127.0.0.1:43661
+1642686533299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42041" "-no-remote" "-profile" "/tmp/rust_mozprofile79MmZU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642686535143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile79MmZU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42041/devtools/browser/7e1b8d5f-b945-45e2-be7e-bfb29bf7c4d7
+1642686537719	Marionette	INFO	Listening on port 35055
+1642686537881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642686542906	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2351:11
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642686549693	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://lobby.ogame.gameforge.com"
+1642686550778	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642686553529	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js, line 0: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js is being assigned a //# sourceMappingURL, but already has one
+1642686563318	Marionette	INFO	Stopped listening on port 35055
+1642686564334	geckodriver	INFO	Listening on 127.0.0.1:51881
+1642686564356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41157" "-no-remote" "-profile" "/tmp/rust_mozprofilePnFKkW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642686565920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePnFKkW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41157/devtools/browser/3455cee7-c246-4094-8356-8474247eebea
+1642686568226	Marionette	INFO	Listening on port 39903
+1642686568294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642686573314	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2351:11
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://lobby.ogame.gameforge.com"
+1642686583829	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js, line 0: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js is being assigned a //# sourceMappingURL, but already has one
+JavaScript warning: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js, line 0: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js is being assigned a //# sourceMappingURL, but already has one
+JavaScript warning: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js, line 0: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js is being assigned a //# sourceMappingURL, but already has one
+JavaScript warning: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js, line 0: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js is being assigned a //# sourceMappingURL, but already has one
+JavaScript warning: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js, line 0: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js is being assigned a //# sourceMappingURL, but already has one
+JavaScript warning: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js, line 0: https://s182-en.ogame.gameforge.com:23156/socket.io/socket.io.js is being assigned a //# sourceMappingURL, but already has one
